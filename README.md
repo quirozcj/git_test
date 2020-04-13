@@ -1,2 +1,2 @@
 # git_test
-test my first repository
+This is my first code modified
